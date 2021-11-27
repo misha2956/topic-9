@@ -1,0 +1,4 @@
+Hi, {user}
+Greetings!!!
+You have a new pending discount on your account!
+Go check it out!

@@ -1,0 +1,2 @@
+Hi, {user}
+Happy birthday from our team!
